@@ -1,0 +1,1 @@
+This repository contains layouts and schematics for 40106-based oscillator circuits
